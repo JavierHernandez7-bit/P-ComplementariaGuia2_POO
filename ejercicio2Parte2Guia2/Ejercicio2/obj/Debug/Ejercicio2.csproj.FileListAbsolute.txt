@@ -1,0 +1,20 @@
+C:\Users\Jairo\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+C:\Users\Jairo\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+C:\Users\Jairo\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\Jairo\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\Jairo\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Jairo\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Jairo\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Jairo\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Jairo\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+D:\UDB LOCAL\LAB POO\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\UDB LOCAL\LAB POO\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\UDB LOCAL\LAB POO\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\UDB LOCAL\LAB POO\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+D:\UDB LOCAL\LAB POO\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+D:\UDB LOCAL\LAB POO\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+D:\UDB LOCAL\LAB POO\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+D:\UDB LOCAL\LAB POO\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\UDB LOCAL\LAB POO\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\UDB LOCAL\LAB POO\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb

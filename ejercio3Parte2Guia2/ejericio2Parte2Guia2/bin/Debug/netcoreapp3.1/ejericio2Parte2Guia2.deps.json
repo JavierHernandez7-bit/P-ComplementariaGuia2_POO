@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ejericio2Parte2Guia2/1.0.0": {
+        "runtime": {
+          "ejericio2Parte2Guia2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejericio2Parte2Guia2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
